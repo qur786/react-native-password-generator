@@ -14,18 +14,21 @@ This Password Generator app is built using React Native. It offers a user-friend
 
 <!-- Placeholder for screenshots -->
 
-![Screenshot_1703603919](https://github.com/qur786/react-native-password-generator/assets/79472606/ec166d21-48e0-4bbc-b34c-1165c551608f)
+### Home Page
 
+<img src="https://github.com/qur786/react-native-password-generator/assets/79472606/ec166d21-48e0-4bbc-b34c-1165c551608f" width="150" height="100%" />
 
-![Screenshot_1703603934](https://github.com/qur786/react-native-password-generator/assets/79472606/279d4d23-fe59-4934-896c-3a45840cbd6a)
+### Input Password Length
 
+<img src="https://github.com/qur786/react-native-password-generator/assets/79472606/279d4d23-fe59-4934-896c-3a45840cbd6a" width="150" height="100%" />
 
-![Screenshot_1703603942](https://github.com/qur786/react-native-password-generator/assets/79472606/240a477c-3629-4efa-b2ca-4449138cd808)
+### Choose Character Set & Generate Password
 
+<img src="https://github.com/qur786/react-native-password-generator/assets/79472606/240a477c-3629-4efa-b2ca-4449138cd808" width="150" height="100%" />
 
-![Screenshot_1703603946](https://github.com/qur786/react-native-password-generator/assets/79472606/d40d8093-f2c4-43b9-b628-74903357c3a2)
+### Reset The State
 
-
+<img src="https://github.com/qur786/react-native-password-generator/assets/79472606/d40d8093-f2c4-43b9-b628-74903357c3a2" width="150" height="100%" />
 
 <!-- Add screenshots showcasing the UI of your app -->
 
