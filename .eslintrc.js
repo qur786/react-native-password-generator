@@ -1,9 +1,12 @@
 module.exports = {
   root: true,
   extends: "@react-native",
-  override: {
-    rules: {
-      quotes: ["warning", "double"],
+  overrides: [
+    {
+      files: ["*.js", "*.ts", "*.jsx", "*.tsx"],
+      rules: {
+        quotes: ["warn", "double"],
+      },
     },
-  },
+  ],
 };

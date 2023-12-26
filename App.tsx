@@ -1,6 +1,6 @@
-import {ScrollView} from 'react-native';
-import React from 'react';
-import {PasswedGenerator} from './components/PasswordGenerator';
+import { ScrollView } from "react-native";
+import React from "react";
+import { PasswedGenerator } from "./components/PasswordGenerator";
 
 export default function App() {
   return (
