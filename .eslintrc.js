@@ -1,4 +1,9 @@
 module.exports = {
   root: true,
-  extends: '@react-native',
+  extends: "@react-native",
+  override: {
+    rules: {
+      quotes: ["warning", "double"],
+    },
+  },
 };
